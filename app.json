@@ -1,8 +1,8 @@
 {
-  "name": "Hans-v2",
+  "name": "ONYX_MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/HaroldMth/Hans-V2",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "repository": "https://github.com/Frostie017/ONYX_MD",
+  "logo": "https://i.imgur.com/3wQAW23.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
