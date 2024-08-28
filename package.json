@@ -1,7 +1,7 @@
 {
-    "name": "HANS-V2",
+    "name": "ONYX_MD",
     "version": "11.0.0",
-    "description": "Whatsapp Bot By Hans_Tech",
+    "description": "Whatsapp Bot By Frostie",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
@@ -13,7 +13,7 @@
         "code": "node main.js",
         "start": "node index.js"
     },
-    "author": "Hans_Techh",
+    "author": "Frostie",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.6.0",
