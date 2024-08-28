@@ -1,3 +1,3 @@
 {
-	"name": "HANS MULTIDEVICE BOT "
+	"name": "ONYX MULTIDEVICE BOT "
 }
