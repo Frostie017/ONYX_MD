@@ -1,29 +1,29 @@
-<h1 align="center"><strong> ミ★𝐇𝐀𝐍𝐒-𝐕𝟐★彡</strong></h1>
+<h1 align="center"><strong> ONYX MD </strong></h1>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HANS+V2+BOT+BEST+WA+BOT;CREATED+BY+HANS+TECH;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=353935&center=true&width=910&height=100&lines=ONYX+MD+BOT+BEST+WA+BOT;CREATED+BY+FROSTIE+TECH;" alt="Typing SVG" />
 </a>
 
 <p align="center">
   <a href="https://youtube.com/@HansTech0">
-    <img alt="HANS-TECH" height="400" src="https://i.ibb.co/4FzFMp6/hans.jpg">
+    <img alt="FROSTIE-TECH" height="300" src="https://i.imgur.com/2zc5Wjx.jpeg">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/HaroldMth/Hans-bug-bot/fork">
-    <img src="https://img.shields.io/github/forks/HaroldMth/Hans-V2?label=Fork&style=social">
+  <a href="https://github.com/Frostie017/ONYX_MD/fork">
+    <img src="https://img.shields.io/github/forks/Frostie017/ONYX_MD?label=Fork&style=social">
     
     
-  <a href="https://github.com/HaroldMth/Hans-V2/stargazers"> 
-    <img src="https://img.shields.io/github/stars/HaroldMth/Hans-V2?style=social">
+  <a href="https://github.com/Frostie017/ONYX_MD/stargazers"> 
+    <img src="https://img.shields.io/github/stars/Frostie017/ONYX_MD?style=social">
   </a>
 
-  <a href="https://wa.me/237696900612" target="_blank">
+  <a href="https://wa.me/263780858655" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ CONTACT OWNER -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    <p align="center">
-<a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-HANS_TECH-blue.svg?style=for-the-badge&logo=github" width="185px"
+<a href="https://github.com/HaroldMth"><img title="Owner" src="https://img.shields.io/badge/Owner-Frostie-blue.svg?style=for-the-badge&logo=github" width="185px"
 </p>
-<a href="https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O" target="_blank">
+<a href="https://whatsapp.com/channel/0029VaXUSu7LtOjGyZngjH1K" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
@@ -38,7 +38,7 @@ Rolling Dice.
 Character Guessing Game.
 Capital of City Finding.
 ```
-# ADVANTAGES OF USING HANS V2
+# ADVANTAGES OF USING ONYX MD
 ```
 Group Commands
 Download Commands
@@ -49,7 +49,7 @@ Latest Baileys Using
 2x Respond Speed
 Amazing Commands
 ```
-# Script to set up and deploy Hans-V2 on Termux or VPS
+# Script to set up and deploy ONYX MD on Termux or VPS
 
 # Set up storage on Termux
 ```bash
@@ -64,13 +64,13 @@ pkg update && pkg upgrade -y
 ```bash
 pkg install -y python python2 bash libwebp git nodejs ffmpeg wget imagemagick
 ```
-# Clone the Hans-V2 repository
+# Clone the ONYX_MD repository
 ```bash
-git clone https://github.com/HaroldMth/Hans-V2
+git clone https://github.com/Frostie017/ONYX_MD
 ```
 # Navigate to the project directory
 ```bash
-cd Hans-V2
+cd ONYX_MD
 ```
 # Install dependencies
 ```bash
@@ -86,5 +86,5 @@ npm start
 
 
 ### CREDITS 
-HANS TECH
-<p>XEON INC.</p>
+ONYX TECH
+<p>FROSTIE INC.</p>
