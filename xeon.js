@@ -1,0 +1,3 @@
+{
+	"name": "HANS MULTIDEVICE BOT "
+}
