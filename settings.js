@@ -14,24 +14,24 @@ const chalk = require('chalk')
 global.sessionid ='ur session id'
 
 //owmner v card
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
+global.ytname = "YT: OnyxTech" //ur yt chanel name
+global.socialm = "GitHub: Frostie017" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'HANS V2' //ur bot name
-global.ownernumber = '237696900612' //ur owner number
-global.ownername = 'HANS-V2' //ur owner name
+global.botname = 'ONYX_MD' //ur bot name
+global.ownernumber = 263780858655' //ur owner number
+global.ownername = 'ONYX_MD' //ur owner name
 global.websitex = "https://youtube.com/HansTech0"
-global.wagc = "https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O"
+global.wagc = "https://whatsapp.com/channel/0029VaXUSu7LtOjGyZngjH1K"
 global.themeemoji = ''
-global.wm = "HANS_TECH."
-global.botscript = 'https://github.com/HaroldMth/Hans-V2' //script link
+global.wm = "ONYXTECH."
+global.botscript = 'https://github.com/Frostie017/ONYX_MD' //script link
 global.packname = "Sticker By"
-global.author = "HANS_TECH"
-global.creator = "237696900612@s.whatsapp.net"
+global.author = "ONYX_TECG"
+global.creator = "263780858655@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["237696900612"] // Premium User
+global.premium = ["263780858655"] // Premium User
 global.hituet = 0
 
 //bot sett
